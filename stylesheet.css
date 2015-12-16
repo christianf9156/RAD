@@ -1,22 +1,19 @@
-body {
+body{
     background-image: url("red light.jpg");
     background-size:cover;
 }
 
+
 .info{
- color:white;
+ color:#A80000 ;
  text-align:center;
-}
-
-h1{
-    color:#B22222;
-    font-family: 'Righteous', cursive;
-}
-
-h3{
-    color:#B22222;
-      font-family: 'Righteous', cursive;
+ font-family: 'Nunito', sans-serif;
+ margin-left:60px;
+ margin-right:60px;
 }
 .heading{
     text-align: center;
+     color:#C80000 ;
+      font-family: 'Righteous', cursive;
 }
+
