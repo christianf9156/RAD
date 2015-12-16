@@ -43,3 +43,15 @@ h2{
    padding-bottom:15px;
  }
  
+ #pic2{
+    float:right;
+    padding-top:15px;
+   padding-bottom:15px;
+ }
+ 
+.user{
+    text-align:center;
+    color:#D00000 ;
+    position:absolute;
+  
+}
