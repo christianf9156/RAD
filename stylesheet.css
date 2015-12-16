@@ -17,3 +17,9 @@ body{
       font-family: 'Righteous', cursive;
 }
 
+h2{
+   border-top:none;
+    border-left:none;
+    border-right:none;
+    border-bottom: dotted;
+}
