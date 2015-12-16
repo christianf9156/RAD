@@ -5,11 +5,14 @@ body{
 
 
 .info{
+ 
  color:#A80000 ;
  text-align:center;
  font-family: 'Nunito', sans-serif;
  margin-left:60px;
  margin-right:60px;
+ margin-top:80px;
+
 }
 .heading{
     text-align: center;
@@ -22,4 +25,11 @@ h2{
     border-left:none;
     border-right:none;
     border-bottom: dotted;
+}
+
+#dvg{
+
+    margin-left:700px;
+    margin-top:100px;
+    padding:10px 10px 10px 10px;
 }
